@@ -1,0 +1,3 @@
+grupo/Document/BizFileHdr/Xchg/BizGrp/Document/SctiesAllcnDtls/TradDtls
+campo/Document/BizFileHdr/Xchg/BizGrp/Document/SctiesAllcnDtls/TradDtls/TradInf/FinInstrmAttrbts/TckrSymb
+campo/Document/BizFileHdr/Xchg/BizGrp/Document/SctiesAllcnDtls/TradDtls/TradInf/TradId
